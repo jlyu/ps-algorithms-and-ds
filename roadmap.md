@@ -1,34 +1,36 @@
-数据结构  
-[ ] 动态数组  
-[ ] 单向链表  
-[ ] 双向链表  
-[ ] 堆  
-[ ] 栈  
-[ ] 队列  
-[ ] 优先级队列  
-[ ] 哈希表  
-[ ] 二分查找  
-[ ] 按位运算  
-[ ] 树 （遍历）  
-     [ ] 二叉查找树 BSTs  
-     [ ] 堆（Heap） / 优先级队列（Priority Queue） / 二叉堆（Binary Heap）  
-     [ ] 字典树（Tries）  
-     [ ] 平衡查找树（Balanced search trees）  
-     [ ] AVL树  
-     [ ] 伸展树  
-     [ ] 2-3树  
-     [ ] 2-3-4树 (亦称2-4树)  
-     [ ] B树  
-     [ ] 红黑树  
-     [ ] N 叉树（K 叉树、M 叉树）  
-[ ] 图（Graphs）  
-[ ] 排序（Sorting）
-     [ ] 冒泡排序，冒泡排序分析  
-     [ ] 插入排序  
-     [ ] 归并排序  
-     [ ] 快速排序  
-     [ ] 选择排序
-[ ] 递归（Recursion）  
-[ ] 动态规划（Dynamic Programming）  
-[ ] 组合（Combinatorics）  & 概率（Probability）  
-[ ] NP, NP-完全和近似算法  
+## 数据结构  
+- [ ] 动态数组  
+- [ ] 单向链表  
+- [ ] 双向链表  
+- [ ] 堆  
+- [ ] 栈  
+- [ ] 队列  
+- [ ] 优先级队列  
+- [ ] 哈希表  
+- [ ] 二分查找  
+- [ ] 按位运算  
+- [ ] 树 （遍历）  
+  - [ ] 二叉查找树 BSTs  
+  - [ ] 堆（Heap） / 优先级队列（Priority Queue） / 二叉堆（Binary Heap）  
+  - [ ] 字典树（Tries）  
+  - [ ] 平衡查找树（Balanced search trees）  
+  - [ ] AVL树  
+  - [ ] 伸展树  
+  - [ ] 2-3树  
+  - [ ] 2-3-4树 (亦称2-4树)  
+  - [ ] B树  
+  - [ ] 红黑树  
+  - [ ] N 叉树（K 叉树、M 叉树）  
+- [ ] 图（Graphs）
+
+## 算法  
+- [ ] 排序（Sorting）
+  - [ ] 冒泡排序，冒泡排序分析  
+  - [ ] 插入排序  
+  - [ ] 归并排序  
+  - [ ] 快速排序  
+  - [ ] 选择排序
+- [ ] 递归（Recursion）  
+- [ ] 动态规划（Dynamic Programming）  
+- [ ] 组合（Combinatorics）  & 概率（Probability）  
+- [ ] NP, NP-完全和近似算法  
