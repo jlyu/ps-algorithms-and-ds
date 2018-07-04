@@ -70,4 +70,4 @@
 [[search-a-2d-matrix]](https://oj.leetcode.com/problems/search-a-2d-matrix/)  
 
 
-[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) [resolved](/algs/BinarySearch/Sqrtx.js)
+69. Sqrt(x) https://leetcode.com/problems/sqrtx/description [[resolved]](/algs/BinarySearch/Sqrtx.js)
