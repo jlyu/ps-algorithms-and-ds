@@ -49,12 +49,25 @@
 
 
 - [ ] 旅行商问题 => 求图的最短哈密顿回路问题（每个顶点只经过1次）Θ(n!)  
-- [ ] 背包问题 Θ(2^n)  
+- [ ] 背包问题 Θ(2^n)  伪多项式级算法
 - [ ] 分配问题  
-- [X] 循环赛问题 == 握手问题 == 一个含有n个节点的完全图有多少条边
+- [X] 循环赛问题 == 握手问题 == 一个含有n个节点的完全图有多少条边  n*(n-1)/2
+- [X] 淘汰赛问题 == 龟兔赛跑问题 == n-1  
+- [X] 排列问题，本质上是顺序问题。 C(n,k) n选k  
+
+
+  
+    
+       
+          
+            
+
 
 
 
 
 🍗二分查找 [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)  
 [[search-a-2d-matrix]](https://oj.leetcode.com/problems/search-a-2d-matrix/)  
+
+
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) [resolved](/algs/BinarySearch/Sqrtx.js)
