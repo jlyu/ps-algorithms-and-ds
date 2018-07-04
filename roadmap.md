@@ -56,18 +56,6 @@
 - [X] 排列问题，本质上是顺序问题。 C(n,k) n选k  
 
 
-  
-    
-       
-          
-            
-
-
-
-
-
 🍗二分查找 [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)  
-[[search-a-2d-matrix]](https://oj.leetcode.com/problems/search-a-2d-matrix/)  
-
-
-69. Sqrt(x) https://leetcode.com/problems/sqrtx/description [[resolved]](/algs/BinarySearch/Sqrtx.js)
+ 
+[[resolved]](/algs/BinarySearch/Sqrtx.js) 69. Sqrt(x) https://leetcode.com/problems/sqrtx/description  
