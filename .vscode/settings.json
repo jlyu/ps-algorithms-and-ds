@@ -3,5 +3,6 @@
         "BSTs",
         "Combinatorics",
         "logn"
-    ]
+    ],
+    "python.linting.pylintEnabled": false
 }
