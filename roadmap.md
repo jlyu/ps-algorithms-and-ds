@@ -56,7 +56,6 @@
 - [X] 排列问题，本质上是顺序问题。 C(n,k) n选k  
 
 
-🍗二分查找 [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)  
- 
-[✅](/algs/BinarySearch/Sqrtx.js) 69. Sqrt(x) https://leetcode.com/problems/sqrtx/description  
-[✅](/algs/BinarySearch/GuessNumberHigherOrLower.js) 374. Guess Number Higher or Lower https://leetcode.com/problems/guess-number-higher-or-lower/description
+🍗二分查找(Binary Search) [🔗](https://leetcode.com/explore/learn/card/binary-search/)  
+[✅](/algs/BinarySearch/Sqrtx.js) 69. Sqrt(x) [🔗](https://leetcode.com/problems/sqrtx/description)  
+[✅](/algs/BinarySearch/GuessNumberHigherOrLower.py) 374. Guess Number Higher or Lower [🔗](https://leetcode.com/problems/guess-number-higher-or-lower/description)
