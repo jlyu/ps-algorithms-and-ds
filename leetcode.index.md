@@ -8,6 +8,6 @@ Leetcode https://leetcode.com/problemset/all
 
 #### Tags  
 
-> Hash Table  
+`Hash Table`  
 
 [✅](./leetcode/535.EncodeAndDecodeTinyURL.js) 535. Encode and Decode TinyURL [🔗](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
