@@ -1,4 +1,11 @@
 Leetcode https://leetcode.com/problemset/all
 
-[✅](/algs/BinarySearch/Sqrtx.js) 69. Sqrt(x) [🔗](https://leetcode.com/problems/sqrtx/description)  
-[✅](/algs/BinarySearch/GuessNumberHigherOrLower.py) 374. Guess Number Higher or Lower [🔗](https://leetcode.com/problems/guess-number-higher-or-lower/description)
+[✅]( ) 69. Sqrt(x) [🔗](https://leetcode.com/problems/sqrtx/description)  
+[✅]( ) 374. Guess Number Higher or Lower [🔗](https://leetcode.com/problems/guess-number-higher-or-lower/description)
+
+[✅](leetcode/535. Encode and Decode TinyURL.js) 535. Encode and Decode TinyURL [🔗](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
+
+####Tags
+
+> Hash Table  
+[✅](leetcode/535. Encode and Decode TinyURL.js) 535. Encode and Decode TinyURL [🔗](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
