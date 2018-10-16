@@ -25,12 +25,18 @@ when the reversed integer overflows.
 */
 
 var reverse = function(x) {
-    var split = (x[0] === '-') ? '-' + x.slice(1).split('').reverse().join('')
+    if ( x > 2147483647 || x < -2147483648 ) { return 0; }
+    x = '' + x;
+    var s = (x[0] === '-') ? '-' + x.slice(1).split('').reverse().join('')
                             : x.split('').reverse().join('');
-    return parseInt(s);
+    var i = parseInt(s);
+    if ( i > 2147483647 || i < -2147483648 ) { return 0; }
+    return i;
 };
 
+console.log( reverse("1534236469") );
+console.log( reverse("-2147483412") );
 
-console.log( reverse("123") );
+
 console.log( reverse("-123") );
 console.log( reverse("120") );
